@@ -1,15 +1,7 @@
-Predicting Drug Drug Interaction/**/*.csv    filter=lfs diff=lfs merge=lfs -text
-Predicting Drug Drug Interaction/**/*.parquet filter=lfs diff=lfs merge=lfs -text
-Predicting Drug Drug Interaction/**/*.sdf    filter=lfs diff=lfs merge=lfs -text
-Predicting Drug Drug Interaction/**/*.zip    filter=lfs diff=lfs merge=lfs -text
-Predicting Drug Drug Interaction/**/*.pt     filter=lfs diff=lfs merge=lfs -text
-Predicting Drug Drug Interaction/**/*.pkl    filter=lfs diff=lfs merge=lfs -text
-Predicting Drug Drug Interaction/**/*.dylib  filter=lfs diff=lfs merge=lfs -text
-*.csv !text !filter !merge !diff
-*.parquet !text !filter !merge !diff
-*.sdf !text !filter !merge !diff
-*.zip !text !filter !merge !diff
-*.pt !text !filter !merge !diff
-*.pkl !text !filter !merge !diff
-*.dylib !text !filter !merge !diff
-Predicting[[:space:]]Drug[[:space:]]Drug[[:space:]]Interaction/** filter=lfs diff=lfs merge=lfs -text
+"Predicting Drug Drug Interaction/**/*.csv"    filter=lfs diff=lfs merge=lfs -text
+"Predicting Drug Drug Interaction/**/*.parquet" filter=lfs diff=lfs merge=lfs -text
+"Predicting Drug Drug Interaction/**/*.sdf"    filter=lfs diff=lfs merge=lfs -text
+"Predicting Drug Drug Interaction/**/*.zip"    filter=lfs diff=lfs merge=lfs -text
+"Predicting Drug Drug Interaction/**/*.pt"     filter=lfs diff=lfs merge=lfs -text
+"Predicting Drug Drug Interaction/**/*.pkl"    filter=lfs diff=lfs merge=lfs -text
+"Predicting Drug Drug Interaction/**/*.dylib"  filter=lfs diff=lfs merge=lfs -text
