@@ -1,4 +1,4 @@
-Drug–Drug Interaction (DDI) Prediction
+# Drug–Drug Interaction (DDI) Prediction
 *A comparative study of data-driven ML and graph/deep learning models (SSI-DDI, SSF-DDI) for predicting drug-drug interaction types and risks*
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)]()
